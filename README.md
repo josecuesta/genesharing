@@ -1,4 +1,4 @@
-# genesharing
+# Usage of netsim.cpp
 SIMULATION OF BIPARTITE GENE SHARING NETWORKS
 
 Compilation:
